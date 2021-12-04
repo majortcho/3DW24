@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="/home/vagrant/backend-js/tests/user.test.js">
+        <testCase name="Test : get all users responds with json" duration="245"/>
+    </file>
+</testExecutions>
